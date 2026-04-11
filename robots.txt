@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmmobiles-eight.vercel.app/sitemap.xml
